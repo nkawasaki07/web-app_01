@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 背景：丸い正方形 -->
+  <rect width="64" height="64" rx="14" fill="#ff8f00"/>
+  <!-- 「あ」テキスト -->
+  <text
+    x="32" y="46"
+    text-anchor="middle"
+    font-family="'Klee One', 'Hiragino Sans', 'Yu Gothic', sans-serif"
+    font-size="44"
+    font-weight="bold"
+    fill="white"
+  >あ</text>
+</svg>
